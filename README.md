@@ -20,4 +20,5 @@ Currently learning and growing through hands-on projects.
 
 ## Contact
 
-GitHub: [@eronchavez](https://github.com/eronchavez)
+GitHub: [@eronchavez](https://github.com/eronchavez)  
+Email: aaronchavez-dev@gmail.com
