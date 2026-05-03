@@ -12,6 +12,8 @@ Currently learning and growing through hands-on projects.
 
 ## Currently
 
+
+- Competing in Web Technologies
 - Learning full stack web development
 - Building projects with Laravel
 - Open to collaborating and connecting
