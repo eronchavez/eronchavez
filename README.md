@@ -1,7 +1,11 @@
-# Aaron   Chavez
-  
-Aspiring Full Stack Developer focused on building clean and functional web applications.
-Currently learning and growing through hands-on projects.
+# Aaron Chavez
+
+Aspiring Full Stack Developer focused on building clean and functional web applications.  
+Currently learning and improving through hands-on development projects.
+
+## About
+
+I am a BS Information Technology student interested in web development, software engineering, and building practical applications using modern technologies. I am continuously developing my skills in both frontend and backend development.
 
 ## Tech Stack
 
@@ -16,15 +20,15 @@ Currently learning and growing through hands-on projects.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Currently
+## Current Focus
 
-
-- Competing in Web Technologies
-- Learning full stack web development
-- Building projects with Laravel
-- Open to collaborating and connecting
+- Full stack web development using Laravel  
+- Improving backend development skills  
+- Competitor in Web Technologies under TESDA programs  
+- Building real-world applications  
+- Learning API development and system design  
 
 ## Contact
 
 GitHub: [@eronchavez](https://github.com/eronchavez)  
-Email: aaronchavez-dev@gmail.com
+LinkedIn: [Aaron James Chavez](https://www.linkedin.com/in/aaron-james-chavez-753824407/)
