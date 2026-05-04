@@ -31,4 +31,4 @@ I am a BS Information Technology student interested in web development, software
 ## Contact
 
 GitHub: [@eronchavez](https://github.com/eronchavez)  
-LinkedIn: [Aaron James Chavez](https://www.linkedin.com/in/aaron-james-chavez-753824407/)
+LinkedIn: [Aaron Chavez](https://www.linkedin.com/in/aaron-james-chavez-753824407/)
