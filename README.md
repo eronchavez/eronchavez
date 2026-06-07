@@ -24,9 +24,6 @@ I am a BS Information Technology student interested in web development, software
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Currently Learning
- React 
-
 ## Current Focus
 
 - Full stack web development using Laravel  
